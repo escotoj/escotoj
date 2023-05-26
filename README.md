@@ -1,10 +1,10 @@
-Hello there 👋 welcome to my github profile!
-🔭 I’m currently working on Coding Bootcamp at UC Berkeley and I've been having the most AMAZING time our teacher is incredibly smart and easy to follow and have been learning and picking up new technologies every week now working on back-end and our second project!
+Hello World! 👋 🌎 
+🚀 This page is dedicated to my library of work and projects. Currently enrolled at UC Berkeley's Coding Bootcamp gaining hands-on expreinece with teachnologies like JavaScript (Node, Express, React), CSS (Bootstrap, Jquery, Bulma, Handlebars), Databases (SQL, RESTful API, Sequelize) 🚀
 
-🌱 I’m currently learning how to build full-stack applications with node handlebars logic and RESTful APIs using express and MySQL
+🌱 Working on a second fullstack application and exploring the world of react. 
 
-⚡ Fun fact: I come from an arts background mixed with a bit of technical recruitment. 
+⚡ Fun fact: Computational thinking has spread outside of my code and into my life
 
 🔥 Latest project: Full Stack Casino Application featuring Blackjack https://four-leaf-casino-app.herokuapp.com/login
 
-🎈 Check out my portfolio site! https://escotoj.github.io/
+🔍 Check out my portfolio site! https://escotoj.github.io/
