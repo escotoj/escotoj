@@ -11,3 +11,5 @@ Weather Application: https://escotoj.github.io/WeatherApp/
 🔥 Latest project: Full Stack Casino Application featuring Blackjack https://four-leaf-casino-app.herokuapp.com/login
 
 🔍 Check out my portfolio site! https://escotoj.github.io/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escotoj)](https://github.com/escotoj/github-readme-stats)
