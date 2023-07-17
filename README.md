@@ -1,19 +1,22 @@
 ## Hello World! 👋 🌎 
 
-🚀 This page is dedicated to my library of work and projects. Currently enrolled at UC Berkeley's Coding Bootcamp gaining hands-on expreinece with teachnologies like JavaScript (Node, Express, React), CSS (Bootstrap, Jquery, Bulma, Handlebars), Databases (SQL, RESTful API, Sequelize) 🚀
+🚀 This page is dedicated to my library of work and projects. Currently enrolled at UC Berkeley's Coding Bootcamp gaining hands-on experience with technologies like JavaScript (Node, Express, React), CSS (Bootstrap, Jquery, Bulma, Handlebars, Material UI (MUI), React), Databases (SQL, RESTful API, Sequelize, NoSQL, Mongoose and MongoDB) 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escotoj)](https://github.com/escotoj/github-readme-stats)
 
-🌱 Currently exploring the world of React.js.
+🌱 Currently exploring the world of MERN (MongoDB, Express, React, Node).
 
 ⚡ Fun fact: Computational thinking has spread outside of my code and into my life.
 
 🔥 Latest project: 
 
-- [Full-Stack Casino App](https://four-leaf-casino-app.herokuapp.com/login) featuring Blackjack deployed on Heroku.
-- [Full-Stack Blog App](https://github.com/escotoj/TechBlogMVC) deployed on Heroku.
+- [Full-Stack Casino App featuring Blackjack deployed on Heroku.](https://four-leaf-casino-app.herokuapp.com/login) 
+- [Full-Stack Blog App deployed on Heroku.](https://github.com/escotoj/TechBlogMVC) 
 
-🔍 Check out [my portfolio](https://escotoj.github.io/) site!
+🔍 I have two portfolio sites, let me know which one you like best:
+- [One using React and MUI!](https://escotoj.github.io/React-Portfolio/) 
+- [Another using Bootstrap and JS](https://escotoj.github.io/) 
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=escotoj&theme=dark)](https://git.io/streak-stats)
 
