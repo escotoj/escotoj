@@ -1,6 +1,6 @@
 ## Hello World! 👋 🌎 
 
-🚀 This page is dedicated to my library of work and projects. Just finished UC Berkeley's Coding Bootcamp gaining hands-on experience with technologies like JavaScript (Node, Express, React), CSS (Bootstrap, Jquery, Bulma, Handlebars, Material UI (MUI), React), Databases (SQL, RESTful API, GraphQL, Sequelize, NoSQL, Mongoose and MongoDB) 🚀
+🚀  Welcome to my page, a dedicated showcase of my extensive library of work and projects! Recently, I successfully completed UC Berkeley's Coding Bootcamp, where I gained invaluable hands-on experience with cutting-edge technologies such as JavaScript (Node, Express, React), CSS (Bootstrap, Jquery, Bulma, Handlebars, Material UI (MUI), React), and various databases like SQL, RESTful API, GraphQL, Sequelize, NoSQL, Mongoose, and MongoDB 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escotoj)](https://github.com/escotoj/github-readme-stats)
 
 🌱 Currently advancing my skills in the world of MERN (MongoDB, Express, React, Node).
